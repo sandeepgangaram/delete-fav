@@ -1,3 +1,11 @@
+Foods:
+----
 Dosa - peanut chutney
 chicken
 prawns
+
+Movies:
+----
+Aparichithudu
+Interstellar
+Robo
